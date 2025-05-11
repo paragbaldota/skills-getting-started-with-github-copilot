@@ -143,13 +143,7 @@ footer {
   color: #666;
 }
 /* Styling related to participant */
-.participant {
-   You need to modify the `styles.css` file to include the keyphrase "participant". Below is an example of how you can add this keyphrase in a meaningful way:
-
-#### Suggested Change to `styles.css`
-Add the following CSS rule:
-```css
-.participant {
+participant {
     font-size: 16px font-size: 16px;
     color: #333;
     margin-bottom: 20px;
